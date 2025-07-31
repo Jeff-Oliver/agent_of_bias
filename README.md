@@ -35,6 +35,7 @@ The secondary goal is to structure the pipeline to simplify testing different mo
 
 - RAG Evaluation Framework / Metrics / Techniques
 - - qllama/bge-reranker-v2-m3:latest (prompt reranker)
+- [Qwen3-4b-BiasExpert](https://huggingface.co/EmergentMethods/Qwen3-4B-BiasExpert) (bias analysis(huggingface))
 
 ### References
 
@@ -49,12 +50,6 @@ The secondary goal is to structure the pipeline to simplify testing different mo
 
 #### Test data source
 https://www.congress.gov/browse
-
-## Future Project
-
-### Context Engineering
-
-- [Context Engineering Tutorial](https://www.youtube.com/watch?v=Egeuql3Lrzg)
 
 
 
